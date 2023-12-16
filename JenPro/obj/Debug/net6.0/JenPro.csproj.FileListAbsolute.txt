@@ -1,0 +1,15 @@
+E:\Dec16jen\JenPro\JenPro\bin\Debug\net6.0\JenPro.exe
+E:\Dec16jen\JenPro\JenPro\bin\Debug\net6.0\JenPro.deps.json
+E:\Dec16jen\JenPro\JenPro\bin\Debug\net6.0\JenPro.runtimeconfig.json
+E:\Dec16jen\JenPro\JenPro\bin\Debug\net6.0\JenPro.dll
+E:\Dec16jen\JenPro\JenPro\bin\Debug\net6.0\JenPro.pdb
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.csproj.AssemblyReference.cache
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.AssemblyInfoInputs.cache
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.AssemblyInfo.cs
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.csproj.CoreCompileInputs.cache
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.dll
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\refint\JenPro.dll
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.pdb
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\JenPro.genruntimeconfig.cache
+E:\Dec16jen\JenPro\JenPro\obj\Debug\net6.0\ref\JenPro.dll
