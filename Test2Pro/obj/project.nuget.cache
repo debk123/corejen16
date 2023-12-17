@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "QZhmZi2LcKgqd9myy5lKWH3Rrg8r0C94KjLcvRsh/7iFIx4rUfjdD6cWZk/r+TWofn5AuuiUvf0X9o3NNTvLaQ==",
+  "success": true,
+  "projectFilePath": "E:\\Dec16jen\\JenPro\\Test2Pro\\Test2Pro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.codecoverage\\17.9.0-preview-23577-04\\microsoft.codecoverage.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.net.test.sdk\\17.9.0-preview-23577-04\\microsoft.net.test.sdk.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.9.0-preview-23577-04\\microsoft.testplatform.objectmodel.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\microsoft.testplatform.testhost\\17.9.0-preview-23577-04\\microsoft.testplatform.testhost.17.9.0-preview-23577-04.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\hp\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

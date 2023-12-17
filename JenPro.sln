@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenPro", "JenPro\JenPro.csproj", "{03293F53-B895-43E5-A740-2D22DC0AA612}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JenPro", "JenPro\JenPro.csproj", "{03293F53-B895-43E5-A740-2D22DC0AA612}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Testpro", "Testpro\Testpro.csproj", "{E9C26319-62DC-48EB-B325-10218E226119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test2Pro", "Test2Pro\Test2Pro.csproj", "{AB50BA30-24BF-493C-8B33-8237CE065F89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{03293F53-B895-43E5-A740-2D22DC0AA612}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03293F53-B895-43E5-A740-2D22DC0AA612}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03293F53-B895-43E5-A740-2D22DC0AA612}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9C26319-62DC-48EB-B325-10218E226119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9C26319-62DC-48EB-B325-10218E226119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9C26319-62DC-48EB-B325-10218E226119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9C26319-62DC-48EB-B325-10218E226119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB50BA30-24BF-493C-8B33-8237CE065F89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB50BA30-24BF-493C-8B33-8237CE065F89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB50BA30-24BF-493C-8B33-8237CE065F89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB50BA30-24BF-493C-8B33-8237CE065F89}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
